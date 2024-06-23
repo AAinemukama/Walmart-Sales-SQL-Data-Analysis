@@ -246,3 +246,6 @@ where Rating >5.9 and Rating <8.0
 group by Productline 
 order by countofneutralratings desc
 ```
+## Data Visualization
+
+- [Link to Power Bi dashboard] (https://github.com/AAinemukama/Data-Visualizations-Power-BI-and-Excel/blob/main/walmartviz.pbix)
