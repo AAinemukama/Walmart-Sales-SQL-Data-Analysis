@@ -247,5 +247,4 @@ group by Productline
 order by countofneutralratings desc
 ```
 ## Data Visualization
-
-- [Link to Power Bi dashboard] (https://github.com/AAinemukama/Data-Visualizations-Power-BI-and-Excel/blob/main/walmartviz.pbix)
+- Click link to view Power Bi dashboard (https://github.com/AAinemukama/Data-Visualizations-Power-BI-and-Excel/blob/main/walmartviz.pbix)
